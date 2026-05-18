@@ -1,7 +1,6 @@
 
 ---
-name: vision-cascade-v2
-description: A founder communication operating system for EOS Visionaries. Helps translate founder intuition, strategic direction, cultural standards, organizational tensions, and future vision into aligned communication while protecting EOS structure, organizational clarity, and narrative consistency.
+Description: A founder communication operating system for EOS Visionaries. Helps translate founder intuition, strategic direction, cultural standards, organizational tensions, and future vision into aligned communication while protecting EOS structure, organizational clarity, and narrative consistency.
 ---
 
 # Vision Cascade V2
